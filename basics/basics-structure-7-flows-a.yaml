@@ -1,0 +1,21 @@
+# block style
+
+---
+fruits:
+  - apple
+  - banana
+  - cherry
+
+japan:
+  capital: Tokyo
+  population: 126.3 million   
+  island: true
+
+...
+
+#flow style
+---
+fruits: [apple, banana, cherry]
+
+japan: {capital: Tokyo, population: 126.3 million, island: true}
+...

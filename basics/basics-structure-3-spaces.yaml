@@ -1,0 +1,9 @@
+# No space after thhe:
+---
+street: "101 main street"
+city:   'San Jose'
+state:  California
+zip:    95131
+state_population: 39.24
+occupied: true
+...

@@ -1,0 +1,22 @@
+# you parser might not accept this as an valid yaml document
+# but it is a valid yaml document
+---
+name: Peter harris
+age: 35
+city: Boston
+state: Massachusetts
+cell: 1234567890
+note: waiting on technician
+call_count: 2
+new_customer: true
+...
+---
+name: Gary Thompson
+age: 45
+city: San Francisco
+state: California
+cell: 9876543210
+note: waiting on technician
+call_count: 5
+new_customer: true
+...

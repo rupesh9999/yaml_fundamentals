@@ -1,0 +1,18 @@
+# Understanding indendation in YAML
+# Indentation is used to denote structure in YAML
+---
+customer1:
+  name: "peter harris"
+  city: "Boston"
+  state: "Massachusetts"
+
+customer2:
+  name: "susan smith"
+  city: "San Francisco"
+  state: "California"
+  details:
+    products_purchased: 10
+    enrolled: 2015
+
+
+...
