@@ -5,5 +5,4 @@ groceries: !!set
   ? Milk
   ? Bread 
   ? Greens
-  ? Milk
 ...
